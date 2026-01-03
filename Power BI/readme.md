@@ -1,0 +1,1 @@
+This Power BI dashboard delivers interactive insights into key business metrics through dynamic visuals, filters, and KPIs. It uses cleaned and modeled data with DAX measures to enable efficient performance monitoring and data-driven decision-making.
